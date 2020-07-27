@@ -1,4 +1,4 @@
-package com.github.pihme;
+package com.github.pihme.junit4;
 
 import org.junit.Assert;
 import org.junit.Rule;

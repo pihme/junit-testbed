@@ -1,5 +1,6 @@
-package com.github.pihme;
+package com.github.pihme.junit4;
 
+import com.github.pihme.Dummy;
 import org.junit.rules.TestRule;
 import org.junit.runner.Description;
 import org.junit.runners.model.Statement;

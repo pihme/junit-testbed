@@ -1,9 +1,11 @@
-package com.github.pihme;
+package com.github.pihme.junit5;
 
 
 
+import com.github.pihme.Dummy;
 import org.junit.Assert;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+
 
 public class DummyTest {
 
